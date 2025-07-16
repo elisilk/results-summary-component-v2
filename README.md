@@ -66,6 +66,7 @@ More general ideas I want to consider:
 Hmm 🤔 ...
 
 - What other key aspects/essential ideas of Vue should I be trying out, learning more about, and implementing?
+- Should this GitHub repo really be a different version (or branch) located within/alongside the GitHub repo for the first solution? What do I need to learn about git and GitHub to make that work well?
 
 ### Useful resources
 

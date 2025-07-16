@@ -1,0 +1,19 @@
+@import './base.css';
+
+body {
+  background: hsl(var(--color-background-body));
+
+  font-family: var(--ff-base);
+  font-weight: var(--fw-medium);
+}
+
+#app {
+  inline-size: 100%;
+}
+
+@media (min-width: 44rem) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+}

@@ -48,7 +48,8 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Accessibility
-- [Vue.js](https://vuejs.org/)
+- [Vue](https://vuejs.org/)
+- [Vite](https://vite.dev/)
 
 ### What I learned
 
